@@ -1,0 +1,4 @@
+bundle exec jekyll build
+sudo docker compose pull
+sudo service docker start
+sudo docker compose up
