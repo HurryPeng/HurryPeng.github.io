@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://HurryPeng.github.io//sitemap.xml
