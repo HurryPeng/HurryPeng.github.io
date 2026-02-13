@@ -29,4 +29,4 @@ I am Haoran Peng, a Ph.D. student at Paul G. Allen School of Computer Science & 
 
 We live by languages, and so do machines. It is through programming languages that we talk to machines. I am enthusiastic about researches in **Programming Languages and Software Engineering** that maximize humans' expressiveness of their intelligence by offloading mechanical work to **Systems**. 
 
-I am currently focused on **automated C to Rust translation**, specifically C preprocessor macro to Rust translation.
+I am currently focused on **automated C to Rust translation**. I built **[Hayroll](https://github.com/UW-HARVEST/Hayroll)**, a tool that translates C macros and conditional compilation to Rust using static program analysis. I am exploring ways to incorporate into LLM-based translators human-like workflows, aiming to achieve better interpretability, better human control, and better translation quality.
